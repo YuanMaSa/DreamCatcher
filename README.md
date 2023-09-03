@@ -3,6 +3,10 @@ Dream Catcher APP: Your Gateway to Dream Exploration and Recording
 
 Dreams have long fascinated and intrigued humanity, offering a window into the mysterious realms of our subconscious minds. Now, with the Dream Catcher App, your journey into the world of dreams becomes not only possible but also beautifully seamless. Our app is meticulously crafted to not only create dreams but also to provide a rich array of functionalities for recording and tracking dream experiences, all wrapped in an exceptional user experience.
 
+![Screenshot 2023-09-03 at 1 32 12 AM](https://github.com/YuanMaSa/DreamCatcher/assets/23623748/aa230fc1-a4ad-477a-82ab-4b32ef91656a)
+![Screenshot 2023-09-03 at 1 30 07 AM](https://github.com/YuanMaSa/DreamCatcher/assets/23623748/1b90f425-ec8f-4557-9ab0-ed27d248af8d)
+
+
 Features at a Glance:
 
 - Dream Creation: Immerse yourself in the world of dreams with our app's innovative dream generation feature. Craft your own dream narratives, explore surreal landscapes, and embark on whimsical adventures with just a few taps. The Dream Catcher App brings your imagination to life.
